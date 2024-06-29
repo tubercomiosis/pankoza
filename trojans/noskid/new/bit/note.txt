@@ -1,0 +1,1 @@
+On Windows XP x64 and Windows Server 2003 x64, you must run the x64 versions, or it wont set itself as critical process
